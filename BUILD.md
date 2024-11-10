@@ -1,20 +1,8 @@
 ## 源码下载
 
 ```plain
-$ git clone https://github.com/Project-LemonLime/Project_LemonLime.git --recursive
+$ git clone https://ghp.ci/https://github.com/Project-LemonLime/Project_LemonLime.git --recursive --depth=1
 ```
-
-### 下载的东西太大了？
-
-`git clone` 的时候，使用 `--depth=1` 可以使下载下来的文件大小减少很多（因为默认情况下它会把所有历史记录全部下载下来）。
-
-### 如果 Github 还是太慢…
-
-你也许可以到 `码云（Gitee）` 去下载。
-
-在很多地区，从 `码云` 下载的速度是从 `Github` 下载的速度的 100 倍。
-
-[这个仓库在码云下的镜像](https://gitee.com/iotang/Project_LemonLime)
 
 ## Windows
 
