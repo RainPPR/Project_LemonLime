@@ -1,7 +1,7 @@
 ## 源码下载
 
 ```plain
-$ git clone https://ghp.ci/https://github.com/Project-LemonLime/Project_LemonLime.git --recursive --depth=1
+$ git clone https://ghp.ci/https://github.com/RainPPR/Project_LemonLime.git --recursive --depth=1
 ```
 
 ## Windows
